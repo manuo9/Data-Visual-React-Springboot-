@@ -1,0 +1,13 @@
+.footer {
+    background-color: purple;
+    color: black;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .socialIcon {
+    font-size: 10px; /* Increase the icon size */
+    margin: 0 20px; /* Increase the spacing between icons */
+    color: white;
+    text-decoration: none; /* Remove the underline from the links */
+  }

@@ -1,0 +1,17 @@
+.label {
+    font-size: 12px; /* Adjust this to your desired font size */
+   
+  
+}
+.title{
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  /* This ensures it takes up the full viewport height */
+}
