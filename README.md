@@ -3,7 +3,7 @@
 
 ## Features
 
-- **Database Integration:** Utilizes Spring Boot to integrate two databases, PostgreSQL and MySQL.
+- **Database Integration:** Utilizes Spring Boot to integrate MySQL.
 - **REST APIs:** Implements RESTful APIs for CRUD operations on the integrated databases.
 - **D3.js Data Visualization:** Includes visualizations using D3.js to enhance data representation.
 
